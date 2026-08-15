@@ -1,5 +1,7 @@
 # Sentinel-1 SAR Flood Mapping and Change Detection
 
+![Project preview](assets/preview.svg)
+
 A reproducible demonstration of pre/post-event SAR change detection for rapid flood screening.
 
 ## Skills demonstrated
