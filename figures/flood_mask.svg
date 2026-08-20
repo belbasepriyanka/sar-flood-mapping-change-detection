@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="260"><rect width="100%" height="100%" fill="white"/><text x="40" y="50" font-size="26" font-family="Arial" font-weight="bold">Flood candidate mask</text><text x="40" y="100" font-size="18" font-family="Arial">Threshold: post-event minus pre-event VV &lt; -3.5 dB</text></svg>
